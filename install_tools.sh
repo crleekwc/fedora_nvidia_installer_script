@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo dnf install -y VirtualBox nmap vim ffmpeg
+sudo dnf install -y VirtualBox nmap vim ffmpeg htop
