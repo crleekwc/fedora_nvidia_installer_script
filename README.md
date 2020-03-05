@@ -1,5 +1,5 @@
 # Fedora Nvidia Installer Script
-Script to install nvidia drivers.
+Scripts to install nvidia drivers, various tools, and customizations.
 
 ```
 sudo install_nvidia_drivers.sh
