@@ -17,6 +17,6 @@ then run this command
 cp /usr/share/gnome-shell/gnome-shell-theme.gresource.backup /usr/share/gnome-shell/gnome-shell-theme.gresource
 ```
 
-### Resources
+### Resources  
 https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-fedora-31  
 https://github.com/DimaZirix/fedora-gdm-wallpaper
