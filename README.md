@@ -1,4 +1,4 @@
-# Fedora Nvidia Installer Script
+# Fedora Setup Scripts
 Scripts to install nvidia drivers, various tools, and customizations.
 
 ```
