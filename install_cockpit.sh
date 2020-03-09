@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script isntall cockpit, enables cockpit in systemd, and adds firewall rules for the web app.
+# Script install cockpit, enables cockpit in systemd, and add firewall rules for the web app.
 # Cockpit is a web based system analysis tool. 
 # Go to https://<server_name>:9090 to start using the web app.
 # Username/pass is a user on the system.
