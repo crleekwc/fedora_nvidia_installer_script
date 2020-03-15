@@ -1,2 +1,2 @@
 #!/bin/bash
-cp bashrc ~/.bashrc
+cp custom.sh /etc/profile.d/
