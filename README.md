@@ -6,7 +6,7 @@ sudo install_nvidia_drivers.sh
 ```
 
 ## Notes:
-###To change the default wallpaper on the login screen run
+### To change the default wallpaper on the login screen run
 ```
 set-gdm-wallpaper </path/to/image.png>
 ```
@@ -16,7 +16,7 @@ then run this command
 ```
 cp /usr/share/gnome-shell/gnome-shell-theme.gresource.backup /usr/share/gnome-shell/gnome-shell-theme.gresource
 ```
-###To setup shared folders in Virtual Box
+### To setup shared folders in Virtual Box
 1) Install the Guest additions on your machine using the command below
 ```
 dnf install virtualbox-guest-additions -y
