@@ -1,3 +1,8 @@
 # These two commands remove showing the escape characters as 'ESC' with a white color background.
 git config --global core.pager 'less -FRX'
 git config --global color.pager false
+
+# Adds .DS_Store and .idea/ to a global gitignore file and adds it to git's global config
+echo .DS_Store >> ~/.gitignore_global
+echo .idea/ >> ~/.gitignore_global
+git config --global core.excludesfile ~/.gitignore_global
